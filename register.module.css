@@ -1,0 +1,21 @@
+.container {
+  margin-top: 100px;
+  margin: 50px;
+}
+
+.formpanel {
+  background-color: rgb(255, 255, 255);
+  padding: 40px;
+  height: 50%;
+  width: 100%;
+}
+.text{
+  width: 100%;
+  margin-top: 10px;
+}
+.btn{
+  width: 200px;
+  margin: 10px;
+}
+
+

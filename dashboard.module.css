@@ -1,0 +1,85 @@
+.container {
+  background: rgb(231, 230, 230);
+  padding: 50px;
+}
+.container .card1 {
+  border-radius: 10px;
+  background: rgb(71, 184, 90);
+  width: 200px;
+  height: 130px;
+}
+.container .card2 {
+  border-radius: 10px;
+  background: rgb(66, 50, 218);
+  width: 200px;
+  height: 130px;
+}
+.container .card3 {
+  border-radius: 10px;
+  background: rgb(245, 112, 79);
+  width: 200px;
+  height: 130px;
+}
+.container .card4 {
+  border-radius: 10px;
+  background: rgb(79, 177, 207);
+  width: 200px;
+  height: 130px;
+}
+
+.container .card1 span {
+  margin-left: 50px;
+  padding-top: 20px;
+  font-weight: 700;
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container .card1 p {
+  margin-left: 85px;
+  padding-top: 20px;
+  font-weight: 700;
+  font-size: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container .card2 span {
+  margin-left: 50px;
+  padding-top: 20px;
+  font-weight: 700;
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container .card2 p {
+  margin-left: 70px;
+  padding-top: 20px;
+  font-weight: 700;
+  font-size: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container .card3 span {
+  margin-left: 50px;
+  padding-top: 20px;
+  font-weight: 700;
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container .card3 p {
+  margin-left: 70px;
+  padding-top: 20px;
+  font-weight: 700;
+  font-size: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container .card4 span {
+  margin-left: 50px;
+  padding-top: 20px;
+  font-weight: 700;
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container .card4 p {
+  margin-left: 70px;
+  padding-top: 20px;
+  font-weight: 700;
+  font-size: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
